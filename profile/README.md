@@ -1,9 +1,7 @@
-# digiLab Software
-
-<table width="100%">
+<table>
 <tr>
-<td>
-
+<th align="left">
+<img width="400" height="1">
 twinCity:
 
 -   [🌇 twinCity ](https://github.com/digiLab-ai/twinCity)
@@ -20,10 +18,9 @@ Consultancy:
 -   [💥 Tokamask](https://github.com/digiLab-ai/tokamask)
 -   [📐 digiKrige](https://github.com/digiLab-ai/digiKrige)
 -   [💧 SWW](https://github.com/digiLab-ai/splashpage)
-
-</td>
-<td>
-
+</th>
+<th align="center">
+<img width="400" height="1">
 twinLab:
 
 -   [🤖 twinLab-Library](https://github.com/digiLab-ai/twinLab)
@@ -37,7 +34,6 @@ Tools:
 Academy:
 
 -   [🎓 Academy-Content](https://github.com/digiLab-ai/academy-content)
-
-</td>
+</th>
 </tr>
 </table>
