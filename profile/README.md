@@ -19,7 +19,7 @@ Consultancy:
 -   [📐 digiKrige](https://github.com/digiLab-ai/digiKrige)
 -   [💧 SWW](https://github.com/digiLab-ai/splashpage)
 </th>
-<th align="center">
+<th align="left">
 <img width="400" height="1">
 twinLab:
 
