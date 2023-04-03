@@ -8,8 +8,8 @@ twinCity:
 
 Mockingbird:
 
--   [📟 Mockingbird-HMI ](https://github.com/digiLab-ai/mockingbird-api)
--   [🪶 Mockingbird-API ](https://github.com/digiLab-ai/mockingbird-hmi)
+-   [📟 Mockingbird-HMI ](https://github.com/digiLab-ai/mockingbird-hmi)
+-   [🪶 Mockingbird-API ](https://github.com/digiLab-ai/mockingbird-api)
 -   [✈️ Mockingbird-Simulator ](https://github.com/digiLab-ai/mockingbird-simulator)
 -   [🧩 Mockingbird-Interface ](https://github.com/digiLab-ai/mockingbird-interface)
 
