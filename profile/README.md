@@ -6,7 +6,7 @@
 twinLab:
 
 -   [📖 Documentation](https://digilab-ai.github.io/twinLab)
--   [👩🏾‍💻 Tutorials](https://github.com/digiLab-ai/twinLab-Demos)
+-   [👩🏾‍💻 Tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
 -   [🧪 Python interface](https://pypi.org/project/twinlab)
 -   [📊 Graphical interface](https://f2yq4lqtu5xle36mqgh5rprefe0xcilt.lambda-url.eu-west-2.on.aws)
 
