@@ -14,11 +14,11 @@ twinLab:
 <th align="left">
 <img width="400" height="1">
 
-Tools:
+Open Source Tools:
 
 -   [📉 DaFT](https://github.com/digiLab-ai/daft)
 
-Case stuides:
+Case studies:
 
 -   [☢️ Fusion energy](https://github.com/digiLab-ai/NuclearFusion)
 -   [🌌 Cosmological structure](https://github.com/digiLab-ai/CosmologicalStructure)
