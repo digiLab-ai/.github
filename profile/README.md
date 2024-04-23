@@ -1,11 +1,11 @@
-![digiLab Logo](https://hackmd.io/_uploads/ryF8TSrbR.jpg)
+<centre>![digiLab Logo](https://hackmd.io/_uploads/ryF8TSrbR.jpg)</centre>
 
-Welcome to the [digiLab](https://www.digilab.co.uk) GitHub!
+Welcome to our GitHub!
 
 We're building [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic Machine Learning.
 - 📖 [Read the Docs](https://twinlab.ai)
 - 👩🏾‍💻 [Explore the Tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
-- 🧪 [Download the Python Interface](https://pypi.org/project/twinlab) from PyPI
+- 🧪 [Download the Python Interface](https://pypi.org/project/twinlab)
 
 We also help organisations across energy, engineering, and transport become AI-enabled in their digital transformation journey, by combining solution engineering, training, and software support. 
 
