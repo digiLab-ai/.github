@@ -1,28 +1,21 @@
-<table>
-<tr>
-<th align="left">
-<img width="400" height="1">
+![digiLab Logo](https://hackmd.io/_uploads/ryF8TSrbR.jpg)
 
-twinLab:
+Welcome to the [digiLab](https://www.digilab.co.uk) GitHub!
 
--   [📖 Documentation](https://digilab-ai.github.io/twinLab)
--   [👩🏾‍💻 Tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
--   [🧪 Python Interface](https://pypi.org/project/twinlab)
--   [📊 Graphical Interface](https://f2yq4lqtu5xle36mqgh5rprefe0xcilt.lambda-url.eu-west-2.on.aws)
+We're building [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic Machine Learning.
+- 📖 [Read the Docs](https://twinlab.ai)
+- 👩🏾‍💻 [Explore the Tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
+- 🧪 [Download the Python Interface](https://pypi.org/project/twinlab) from PyPI
 
-</th>
-<th align="left">
-<img width="400" height="1">
+We also help organisations across energy, engineering, and transport become AI-enabled in their digital transformation journey, by combining solution engineering, training, and software support. 
 
-Open Source Tools:
+Connect with us on [LinkedIn](https://uk.linkedin.com/company/digilab-solutions-ltd) or via email: [info@digilab.co.uk](mailto:info@digilab.co.uk)
+
+**Open Source Tools:**
 
 -   [📉 DaFT](https://github.com/digiLab-ai/daft)
 
-Case Studies:
+**Case Studies:**
 
 -   [☢️ Fusion Energy](https://github.com/digiLab-ai/NuclearFusion)
 -   [🌌 Cosmological Structure](https://github.com/digiLab-ai/CosmologicalStructure)
-
-</th>
-</tr>
-</table>
