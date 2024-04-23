@@ -1,6 +1,6 @@
 ## Welcome to the digiLab GitHub!
 
-We're building [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic Machine Learning.
+**We're building [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic Machine Learning.**
 - 📖 [Read the Docs](https://twinlab.ai)
 - 👩🏾‍💻 [Explore the Tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
 - 🧪 [Download the Python Interface](https://pypi.org/project/twinlab)
