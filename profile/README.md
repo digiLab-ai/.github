@@ -1,6 +1,4 @@
-<centre>![digiLab Logo](https://hackmd.io/_uploads/ryF8TSrbR.jpg)</centre>
-
-Welcome to our GitHub!
+## Welcome to the digiLab GitHub!
 
 We're building [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic Machine Learning.
 - 📖 [Read the Docs](https://twinlab.ai)
