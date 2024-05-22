@@ -2,8 +2,10 @@
 
 **We're building [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic Machine Learning.**
 - 📖 [Read the Docs](https://twinlab.ai)
+- ⚫ [Enter the Portal](https://portal.twinlab.ai)
 - 👩🏾‍💻 [Explore the Tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
 - 🪢 [Download the Python Interface](https://github.com/digiLab-ai/twinLab-Interface)
+- 📊 [Plot your Emulators](https://plot.twinlab.ai/)
 - 🧪 [Find us on PyPI](https://pypi.org/project/twinlab)
 
 We also help organisations across energy, engineering, and transport become AI-enabled in their digital transformation journey, by combining solution engineering, training, and software support. 
