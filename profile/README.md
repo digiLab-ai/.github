@@ -1,11 +1,12 @@
 ## Welcome to the digiLab GitHub!
 
 **We're building [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic Machine Learning.**
-- 📖 [Read the Docs](https://twinlab.ai)
-- ⚫ [Enter the Portal](https://portal.twinlab.ai)
-- 👩🏾‍💻 [Explore the Tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
-- 🪢 [Download the Python Interface](https://github.com/digiLab-ai/twinLab-Interface)
-- 📊 [Plot your Emulators](https://plot.twinlab.ai/)
+- 📖 [Read the docs](https://twinlab.ai)
+- 📜 [Check out the API](https://twinlab.digilab.co.uk/docs)
+- ⚫ [Enter the portal](https://portal.twinlab.ai)
+- 👩🏾‍💻 [Explore the tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
+- 🪢 [Download the Python interface](https://github.com/digiLab-ai/twinLab-Interface)
+- 📊 [Plot your emulators](https://plot.twinlab.ai/)
 - 🧪 [Find us on PyPI](https://pypi.org/project/twinlab)
 
 We also help organisations across energy, engineering, and transport become AI-enabled in their digital transformation journey, by combining solution engineering, training, and software support. 
