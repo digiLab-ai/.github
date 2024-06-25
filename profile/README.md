@@ -2,7 +2,7 @@
 
 **We're building [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic Machine Learning.**
 - 📖 [Read the docs](https://twinlab.ai)
-- 📜 [Check out the API](https://twinlab.digilab.co.uk/docs)
+- 📜 [Check out the API](https://twinlab.digilab.co.uk/redoc)
 - ⚫ [Enter the portal](https://portal.twinlab.ai)
 - 👩🏾‍💻 [Explore the tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
 - 🪢 [Download the Python interface](https://github.com/digiLab-ai/twinLab-Interface)
