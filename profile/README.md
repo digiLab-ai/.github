@@ -4,6 +4,7 @@
 - 📖 [Read the docs](https://twinlab.ai)
 - 📜 [Check out the API](https://twinlab.digilab.co.uk/v3/redoc)
 - ⚫ [Enter the portal](https://portal.twinlab.ai)
+- 💡 [Check our status](https://status.twinlab.ai/)
 - 👩🏾‍💻 [Explore the tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
 - 🪢 [Download the Python interface](https://github.com/digiLab-ai/twinLab-Interface)
 - 📊 [Plot your emulators](https://plot.twinlab.ai/)
