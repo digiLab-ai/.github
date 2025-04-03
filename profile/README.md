@@ -12,7 +12,7 @@
 
 We also help organisations across energy, engineering, and transport become AI-enabled in their digital transformation journey, by combining solution engineering, training, and software support. 
 
-Connect with us on [LinkedIn](https://uk.linkedin.com/company/digilab-solutions-ltd) or via email: [info@digilab.co.uk](mailto:info@digilab.co.uk)
+Connect with us on [LinkedIn](https://uk.linkedin.com/company/digilab-solutions-ltd) or via email: [info@digilab.ai](mailto:info@digilab.ai)
 
 **Open Source Tools:**
 
