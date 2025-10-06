@@ -1,24 +1,5 @@
-## Welcome to the digiLab GitHub!
+# digiLab
 
-**We're building [twinLab](https://twinlab.ai), a tool for augmenting engineering workflows with Probabilistic Machine Learning.**
-- 📖 [Read the docs](https://twinlab.ai)
-- 📜 [Check out the API](https://twinlab.digilab.co.uk/v3/redoc)
-- ⚫ [Enter the portal](https://portal.twinlab.ai)
-- 💡 [Check our status](https://status.twinlab.ai/)
-- 👩🏾‍💻 [Explore the tutorials](https://github.com/digiLab-ai/twinLab-Tutorials)
-- 🪢 [Download the Python interface](https://github.com/digiLab-ai/twinLab-Interface)
-- 📊 [Plot your emulators](https://plot.twinlab.ai/)
-- 🧪 [Find us on PyPI](https://pypi.org/project/twinlab)
+digiLab is a pioneering AI company that empowers governments and organisations in safety-critical or highly regulated industries to confidently address critical and high-stakes challenges, even when data is complex, sparse or incomplete.
 
-We also help organisations across energy, engineering, and transport become AI-enabled in their digital transformation journey, by combining solution engineering, training, and software support. 
-
-Connect with us on [LinkedIn](https://uk.linkedin.com/company/digilab-solutions-ltd) or via email: [info@digilab.ai](mailto:info@digilab.ai)
-
-**Open Source Tools:**
-
--   [📉 DaFT](https://github.com/digiLab-ai/daft)
-
-**Case Studies:**
-
--   [☢️ Fusion Energy](https://github.com/digiLab-ai/NuclearFusion)
--   [🌌 Cosmological Structure](https://github.com/digiLab-ai/CosmologicalStructure)
+Through our trustworthy and explainable AI platform, The Uncertainty Engine, and the support of our machine learning specialists and data scientists, digiLab enables decision-makers to accelerate innovation, reduce the risk of failure, turn insight into action, and deliver greater value through more informed and confident decisions.
